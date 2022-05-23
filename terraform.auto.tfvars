@@ -1,1 +1,1 @@
-instance_name = "my instance"
+instance_name = "my instance 2"
